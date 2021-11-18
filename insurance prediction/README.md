@@ -14,3 +14,4 @@ we have 3 files :
 
 > claims_Cost : database that contains the amount paid by the insurer for each guarantee
 
+

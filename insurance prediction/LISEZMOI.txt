@@ -1,0 +1,13 @@
+Chaque Script peut etre lancer independament des autres 
+cependant l'ordre a suivre d'execution est 
+1- data wrangling
+2- EDA 
+3- Prepartion 
+4- Segmentation
+5-Modele_prime_Pur 
+
+Dossier 
+
+RawData contient les données Brut 
+data contient des fichiers csv générés au cours des analyse
+
